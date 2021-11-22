@@ -25,7 +25,7 @@
 
 + And next you'll see the searching result(s), for example:
 
-  ![Search results](.\mdPics\Search results.png)
+  ![Search results](.\mdPics\Search_results.png)
 
 ## 4. How to Search in Your Own Dataset
 
